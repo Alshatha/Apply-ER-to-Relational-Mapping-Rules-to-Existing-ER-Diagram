@@ -1,4 +1,5 @@
 ER-to-Relational Schema Mapping
+
 This task involves transforming an Entity-Relationship (ER) diagram into a complete relational schema by applying standard ER-to-Relational Mapping rules. The goal is to accurately represent the structure of a company's employee-project-department system using relational database tables.
 
 Key steps include:
