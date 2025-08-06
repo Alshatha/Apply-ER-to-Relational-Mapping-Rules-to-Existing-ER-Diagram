@@ -11,3 +11,5 @@ Key steps include:
 - Clearly defining primary keys (PK) and foreign keys (FK), along with their dependencies and constraints.
 
 The resulting relational schema provides a solid foundation for building a well-structured database system.
+View the full solution here:
+https://drive.google.com/file/d/1o9EHTlGPnHNekOFXqGi3XkzR7KAzjG3D/view?usp=sharing
